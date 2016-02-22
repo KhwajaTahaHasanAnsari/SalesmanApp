@@ -1,0 +1,5 @@
+# ===  .gitignore file ===
+# Ignore nodemodule files
+node_modules/
+.idea/
+adminPortal/lib
